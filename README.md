@@ -1,18 +1,18 @@
 # PolarsColab2024
 
 
-- Reading CSV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/01_Reading_CSV.ipynb)
+- 01 Reading CSV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/01_Reading_CSV.ipynb)
 
-- Selecting Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/02_Selectingdata.ipynb)
+- 02 Selecting Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/02_Selectingdata.ipynb)
 
-- Noise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/03_Noise.ipynb)
+- 03 Noise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/03_Noise.ipynb)
 
-- Grouby [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/04_Groupby_aggregate.ipynb)
+- 04 Grouby [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/04_Groupby_aggregate.ipynb)
 
-- String Operation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/06_StringOperation_time.ipynb)
+- 06 String Operation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/06_StringOperation_time.ipynb)
 
-- Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/07_Cleaning up messy data.ipynb)
+- 07 Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/07_Cleaning_messy_data.ipynb)
 
-- TimeStamp [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/08_Timestamps.ipynb)
+- 08 TimeStamp [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/08_Timestamps.ipynb)
 
-- 09_SQLdatabases [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/09_SQLdatabases.ipynb)
+- 09 SQLdatabases [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/09_SQLdatabases.ipynb)
