@@ -16,3 +16,6 @@
 - 08 TimeStamp [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/08_Timestamps.ipynb)
 
 - 09 SQLdatabases [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/09_SQLdatabases.ipynb)
+
+
+Nobody tells you https://labs.quansight.org/blog/dataframe-group-by
