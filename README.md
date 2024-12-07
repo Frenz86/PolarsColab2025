@@ -23,6 +23,7 @@
 
 - 11 Polars on GPU [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/11_Polars_gpu_engine_demo.ipynb)
 
+- 12 Polars DuckDB & YahooFinance [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/12_Polars_DuckDB_YahooFinance.ipynb)
 
 
 
