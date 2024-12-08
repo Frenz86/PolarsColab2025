@@ -32,3 +32,5 @@ Nobody tells you https://labs.quansight.org/blog/dataframe-group-by
 
 ["Differences in concepts between Polars and pandas"](https://docs.pola.rs/user-guide/migration/pandas/)
 
+["repo"](https://github.com/Frenz86/PolarsColab2024)
+
