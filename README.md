@@ -18,7 +18,6 @@
 
 - 09 SQLdatabases [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/09_SQLdatabases.ipynb)
 
-
 - 10 Plots [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/10_Plots.ipynb)
 
 - 11 Polars on GPU [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/11_Polars_gpu_engine_demo.ipynb)
@@ -32,5 +31,5 @@ Nobody tells you https://labs.quansight.org/blog/dataframe-group-by
 
 ["Differences in concepts between Polars and pandas"](https://docs.pola.rs/user-guide/migration/pandas/)
 
-["repo"](https://github.com/Frenz86/PolarsColab2024)
+["this_repo_url"](https://github.com/Frenz86/PolarsColab2024)
 
