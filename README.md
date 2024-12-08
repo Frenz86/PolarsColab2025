@@ -2,6 +2,8 @@
 
 !['image'](Polars.jpg)
 
+- 00 Lazy Dataframe [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/00_LazyDataframe.ipynb)
+
 - 01 Reading CSV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/01_Reading_CSV.ipynb)
 
 - 02 Selecting Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/02_Selectingdata.ipynb)
