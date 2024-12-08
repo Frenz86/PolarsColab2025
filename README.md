@@ -25,6 +25,7 @@
 
 - 12 Polars DuckDB & YahooFinance [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/12_Polars_DuckDB_YahooFinance.ipynb)
 
+- 13 Polars DuckDB with NY Taxi Full Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/13_NY_Taxi_full_DuckDB_Polars.ipynb)
 
 
 Nobody tells you https://labs.quansight.org/blog/dataframe-group-by
