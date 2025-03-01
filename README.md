@@ -1,4 +1,4 @@
-# Polars Colab 2024: Aggiornato a Polars v.1.9
+# Polars Colab 2025: Aggiornato a Polars v.1.20
 
 !['image'](Polars.jpg)
 
