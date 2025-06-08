@@ -1,4 +1,5 @@
 # Polars Colab 2025: Aggiornato a Polars v.1.23
+["this_repo_url"](https://github.com/Frenz86/PolarsColab2024)
 
 !['image'](Polars.jpg)
 
@@ -33,7 +34,8 @@
 
 Nobody tells you https://labs.quansight.org/blog/dataframe-group-by
 
+["Polars Vs pandas"](https://codecut.ai/polars-vs-pandas-a-fast-multi-core-alternative-for-dataframes/?utm_content=buffer2e699&utm_medium=social&utm_source=linkedin.com&utm_campaign=short%20posts)
+
 ["Differences in concepts between Polars and pandas"](https://docs.pola.rs/user-guide/migration/pandas/)
 
-["this_repo_url"](https://github.com/Frenz86/PolarsColab2024)
 
