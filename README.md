@@ -1,5 +1,5 @@
 # Polars Colab 2025: Aggiornato a Polars v.1.23
-["this_repo_url"](https://github.com/Frenz86/PolarsColab2024)
+["this_repo_url"](https://github.com/Frenz86/PolarsColab2025)
 
 !['image'](Polars.jpg)
 
@@ -32,7 +32,7 @@
 - 14 FireDucks vs Pandas vs Polars vs DuckDB [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/13_NY_Taxi_full_DuckDB_Polars.ipynb)
 
 
-Nobody tells you https://labs.quansight.org/blog/dataframe-group-by
+["Nobody tells you"](https://labs.quansight.org/blog/dataframe-group-by)
 
 ["Polars Vs pandas"](https://codecut.ai/polars-vs-pandas-a-fast-multi-core-alternative-for-dataframes/?utm_content=buffer2e699&utm_medium=social&utm_source=linkedin.com&utm_campaign=short%20posts)
 
