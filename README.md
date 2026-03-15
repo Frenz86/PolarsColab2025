@@ -31,6 +31,7 @@
 
 - 14 FireDucks vs Pandas vs Polars vs DuckDB [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/13_NY_Taxi_full_DuckDB_Polars.ipynb)
 
+- 15 Benchmark [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/PolarsColab2024/blob/main/15_Benchmark.ipynb)
 
 ["Nobody tells you"](https://labs.quansight.org/blog/dataframe-group-by)
 
